@@ -73,17 +73,6 @@ AI Integration: 🚧 Planned
 This project currently focuses on **UI/UX and frontend architecture**.
 Backend services such as authentication, database, and AI APIs will be integrated soon.
 
----
-
-## 📸 Screenshots
-
-> Add your screenshots here (recommended)
-
-```
-/images/dashboard.png
-/images/flashcards.png
-/images/concept_map.png
-```
 
 ---
 
